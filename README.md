@@ -19,6 +19,22 @@ For details on the implementation and experimental setup, please refer to the re
 
 If you find XMoE useful or relevant to your research, please kindly cite our paper:
 
-```
-todo
+```latex
+@inproceedings{yang-etal-2024-xmoe,
+    title = "{XM}o{E}: Sparse Models with Fine-grained and Adaptive Expert Selection",
+    author = "Yang, Yuanhang  and
+      Qi, Shiyi  and
+      Gu, Wenchao  and
+      Wang, Chaozheng  and
+      Gao, Cuiyun  and
+      Xu, Zenglin",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.694",
+    doi = "10.18653/v1/2024.findings-acl.694",
+}
+
 ```
